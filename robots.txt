@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ski200912-blip.github.io/ssalmuk/sitemap.xml
