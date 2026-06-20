@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ski200912-blip.github.io/trend-focus/index.html</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/종전-협상에-찬물휴전-깬-이스라엘-레바논-또-공습-5명-사망.html</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/노태악-투표종료-40분-전에야-용지-부족-첫-보고-받았다.html</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/이란군-호르무즈-다시-봉쇄파키스탄-21일-협상-재개-이상은의-워싱턴나우.html</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ski200912-blip.github.io/trend-focus/posts/김용범-반도체발-국부-부동산-흡수되면-호황-오래-못-가보유양도세-조정-필요.html</loc>
